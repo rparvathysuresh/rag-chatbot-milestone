@@ -1,32 +1,32 @@
-import { NextResponse } from "next/server";
-import { scrubPII, PII_WARNING_MSG } from "@/lib/piiGuard";
-import { classifyQuery } from "@/lib/classifier";
-import { embedQuery } from "@/lib/embeddings";
-import { searchSimilar } from "@/lib/vectorStore";
-import { buildPrompt } from "@/lib/promptBuilder";
-import { generateResponse } from "@/lib/llm";
-import { verifyCitation } from "@/lib/sourceGuard";
+import express from 'express';
+import cors from 'cors';
+import 'dotenv/config'; // loads .env before other imports
+import { scrubPII, PII_WARNING_MSG } from './lib/piiGuard.js';
+import { classifyQuery } from './lib/classifier.js';
+import { embedQuery } from './lib/embeddings.js';
+import { searchSimilar } from './lib/vectorStore.js';
+import { buildPrompt } from './lib/promptBuilder.js';
+import { generateResponse } from './lib/llm.js';
+import { verifyCitation } from './lib/sourceGuard.js';
 
+const app = express();
+const PORT = process.env.PORT || 5000;
 const MAX_QUERY_LENGTH = 500;
 
-export async function POST(request) {
+app.use(cors());
+app.use(express.json());
+
+app.post('/api/chat', async (req, res) => {
   try {
-    const body = await request.json();
-    const rawQuery = body.query;
+    const rawQuery = req.body.query;
 
     // 1. Validation
     if (!rawQuery || typeof rawQuery !== "string" || rawQuery.trim().length === 0) {
-      return NextResponse.json(
-        { error: "Please enter a valid question." },
-        { status: 400 }
-      );
+      return res.status(400).json({ error: "Please enter a valid question." });
     }
 
     if (rawQuery.length > MAX_QUERY_LENGTH) {
-      return NextResponse.json(
-        { error: `Query too long. Please limit to ${MAX_QUERY_LENGTH} characters.` },
-        { status: 400 }
-      );
+      return res.status(400).json({ error: `Query too long. Please limit to ${MAX_QUERY_LENGTH} characters.` });
     }
 
     // 2. PII Detection & Scrubbing
@@ -42,7 +42,7 @@ export async function POST(request) {
       let finalAnswer = classification.refusal;
       if (hasPII) finalAnswer += PII_WARNING_MSG;
       
-      return NextResponse.json({
+      return res.json({
         type: "ADVISORY_REFUSAL",
         answer: finalAnswer,
         source_url: null,
@@ -57,7 +57,7 @@ export async function POST(request) {
       queryVector = await embedQuery(scrubbedQuery);
     } catch (e) {
       console.error("[API] Embedding error:", e);
-      return NextResponse.json({ error: "Service temporarily unavailable." }, { status: 503 });
+      return res.status(503).json({ error: "Service temporarily unavailable." });
     }
 
     const chunks = searchSimilar(queryVector, 3);
@@ -67,7 +67,7 @@ export async function POST(request) {
       let finalAnswer = "I'm sorry, I don't have that information. Please check the official Groww website or scheme documents.";
       if (hasPII) finalAnswer += PII_WARNING_MSG;
       
-      return NextResponse.json({
+      return res.json({
         type: "FACTUAL",
         answer: finalAnswer,
         source_url: null,
@@ -84,7 +84,7 @@ export async function POST(request) {
       llmResponse = await generateResponse(prompt);
     } catch (e) {
       console.error("[API] LLM error:", e);
-      return NextResponse.json({ error: "Service temporarily unavailable." }, { status: 503 });
+      return res.status(503).json({ error: "Service temporarily unavailable." });
     }
 
     // 6. Verification & Formatting
@@ -98,7 +98,7 @@ export async function POST(request) {
     // Attempt to extract scheme name from top chunk for frontend context
     const scheme = chunks[0]?.scheme_name || null;
 
-    return NextResponse.json({
+    return res.json({
       type: "FACTUAL",
       answer: finalAnswer,
       source_url: validUrl,
@@ -108,9 +108,10 @@ export async function POST(request) {
 
   } catch (error) {
     console.error("[API] Unhandled error:", error);
-    return NextResponse.json(
-      { error: "An unexpected error occurred." },
-      { status: 500 }
-    );
+    return res.status(500).json({ error: "An unexpected error occurred." });
   }
-}
+});
+
+app.listen(PORT, () => {
+  console.log(`Backend server is running on port ${PORT}`);
+});
