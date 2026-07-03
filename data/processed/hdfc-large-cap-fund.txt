@@ -1,0 +1,143 @@
+Source: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+Scheme: HDFC Large Cap Fund
+Scraped: 2026-07-03T16:12:21.643Z
+============================================================
+
+Scheme Name: HDFC Large Cap Fund Direct Growth
+Category: Equity | Large Cap | Very High Risk | Annualised returns | Absolute returns
+Returns: +11.84%3Y annualised
+1-Day Return: +0.67% 1D
+
+--- Fund Details ---
+NAV: 02 Jul '26: ₹1,228.50
+Min. for SIP: ₹100
+Fund size (AUM): ₹37,808.31 Cr
+Expense ratio: 1.04%
+Rating: 4
+
+--- Return Calculator ---
+Over the past | Total investment | Would've become | Historic returns | Returns
+1 year | ₹60,000 | ₹60,446 | +0.74%
+3 years | ₹1,80,000 | ₹1,93,612 | +7.56%
+5 years | ₹3,00,000 | ₹3,88,585 | +29.53%
+10 years | ₹6,00,000 | ₹11,81,610 | +96.94%
+
+--- Portfolio Holdings ---
+Name | Sector | Instruments | Assets
+ICICI Bank Ltd | Financial | Equity | 9.18%
+HDFC Bank Ltd | Financial | Equity | 7.63%
+Bharti Airtel Ltd | Technology | Equity | 5.77%
+Kotak Mahindra Bank Ltd | Financial | Equity | 5.52%
+Reliance Industries Ltd | Energy & Utilities | Equity | 5.22%
+Titan Company Ltd | Consumer Discretionary | Equity | 4.44%
+Torrent Pharmaceuticals Ltd | Healthcare | Equity | 3.71%
+Axis Bank Ltd | Financial | Equity | 3.65%
+Bajaj Auto Ltd | Consumer Discretionary | Equity | 3.12%
+Bajaj Finserv Ltd | Financial | Equity | 3.10%
+Infosys Ltd | Technology | Equity | 2.98%
+Lupin Ltd | Healthcare | Equity | 2.77%
+Repo | Unspecified | Repo | 2.76%
+Ambuja Cements Ltd | Materials | Equity | 2.64%
+NTPC Ltd | Energy & Utilities | Equity | 2.28%
+State Bank of India | Financial | Equity | 2.22%
+Cholamandalam Investment & Finance Company Ltd | Financial | Equity | 2.13%
+Larsen & Toubro Ltd | Industrials | Equity | 2.12%
+Zomato Ltd | Technology | Equity | 2.01%
+Monthly SIPOne timeMonthly investment₹5,000Over the pastTotal investmentWould've becomeHistoric returnsReturns1 year₹60,000₹60,446+0.74%3 years₹1,80,000₹1,93,612+7.56%5 years₹3,00,000₹3,88,585+29.53%10 years₹6,00,000₹11,81,610+96.94%
+Monthly SIPOne time
+Monthly investment₹5,000
+Monthly investment
+
+--- Holdings (47) ---
+NameSectorInstrumentsAssetsICICI Bank LtdFinancialEquity9.18%HDFC Bank LtdFinancialEquity7.63%Bharti Airtel LtdTechnologyEquity5.77%Kotak Mahindra Bank LtdFinancialEquity5.52%Reliance Industries LtdEnergy & UtilitiesEquity5.22%Titan Company LtdConsumer DiscretionaryEquity4.44%Torrent Pharmaceuticals LtdHealthcareEquity3.71%Axis Bank LtdFinancialEquity3.65%Bajaj Auto LtdConsumer DiscretionaryEquity3.12%Bajaj Finserv LtdFinancialEquity3.10%Infosys LtdTechnologyEquity2.98%Lupin LtdHealthcareEquity2.77%RepoUnspecifiedRepo2.76%Ambuja Cements LtdMaterialsEquity2.64%NTPC LtdEnergy & UtilitiesEquity2.28%State Bank of IndiaFinancialEquity2.22%Cholamandalam Investment & Finance Company LtdFinancialEquity2.13%Larsen & Toubro LtdIndustrialsEquity2.12%Zomato LtdTechnologyEquity2.01%Interglobe Aviation LtdIndustrialsEquity1.75%Tata Motors LtdIndustrialsEquity1.72%Mankind Pharma Ltd.HealthcareEquity1.72%Max Healthcare Institute LtdHealthcareEquity1.69%United Spirits LtdConsumer StaplesEquity1.60%Vishal Mega Mart Ltd.Consumer StaplesEquity1.59%Tata Consumer Products LtdConsumer StaplesEquity1.58%Indusind Bank LtdFinancialEquity1.49%Havells India LtdConsumer DiscretionaryEquity1.35%ICICI Prudential Asset Management Company Ltd.FinancialEquity1.28%Swiggy Ltd.TechnologyEquity1.19%Hyundai Motor India Ltd.Consumer DiscretionaryEquity1.11%Adani Ports and Special Economic Zone LtdIndustrialsEquity1.04%SRF LtdMaterialsEquity1.00%Eicher Motors LtdConsumer DiscretionaryEquity0.98%Maruti Suzuki India LtdConsumer DiscretionaryEquity0.84%Dabur India LtdConsumer StaplesEquity0.81%Mahindra & Mahindra LtdConsumer DiscretionaryEquity0.80%TATA CAPITAL LIMITED EQFinancialEquity0.66%CG Power & Industrial Solutions LtdIndustrialsEquity0.66%Tata Motors LtdConsumer DiscretionaryEquity0.55%GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100EntitiesGOI Securities0.50%Cummins India LtdIndustrialsEquity0.36%DLF LtdReal EstateEquity0.33%Billionbrains Garage Ventures Ltd.FinancialEquity0.28%Hindalco Industries LtdMaterialsEquity0.27%SBI Life Insurance Company LtdFinancialEquity0.19%Net PayablesUnspecifiedNet Payables-0.59%See All
+Bharti Airtel Ltd
+Kotak Mahindra Bank Ltd
+Reliance Industries Ltd
+Titan Company Ltd
+Torrent Pharmaceuticals Ltd
+Bajaj Finserv Ltd
+Ambuja Cements Ltd
+State Bank of India
+Cholamandalam Investment & Finance Company Ltd
+
+--- Minimum investments ---
+Min. for 1st investment₹100Min. for 2nd investment₹100Min. for SIP₹100
+Min. for 1st investment₹100Min. for 2nd investment₹100
+Min. for 1st investment₹100
+Min. for 1st investment
+Min. for 2nd investment₹100
+Min. for 2nd investment
+Min. for SIP₹100
+
+--- Understand terms ---
+Annualised returnsAverage of the yearly returns of a mutual fund over a given period.Absolute returnsThe total return of a mutual fund over a given period.
+Annualised returnsAverage of the yearly returns of a mutual fund over a given period.
+Average of the yearly returns of a mutual fund over a given period.
+Absolute returnsThe total return of a mutual fund over a given period.
+The total return of a mutual fund over a given period.
+
+--- Compare similar funds ---
+Name1Y3YFund Size(Cr)Invesco India Largecap Fund Direct Growth+2.60%+15.51%1,748.94WhiteOak Capital Large Cap Fund Direct Growth+0.33%+14.94%1,170.63Nippon India Large Cap Fund Direct Growth-0.39%+14.47%51,660.30ICICI Prudential Large Cap Fund Direct Growth-1.73%+13.94%76,296.98DSP Large Cap Fund Direct Growth-2.63%+13.76%7,175.42Compare
+Invesco India Largecap Fund Direct Growth
+WhiteOak Capital Large Cap Fund Direct Growth
+Nippon India Large Cap Fund Direct Growth
+ICICI Prudential Large Cap Fund Direct Growth
+DSP Large Cap Fund Direct Growth
+
+--- Fund management ---
+RBRahul BaijalJul 2022 - PresentView detailsEducationMr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of EngineeringExperiencePrior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.Also manages these schemesHDFC Large Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Defence Fund Direct GrowthDMDhruv MuchhalJun 2023 - PresentView detailsEducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth
+RBRahul BaijalJul 2022 - PresentView detailsEducationMr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of EngineeringExperiencePrior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.Also manages these schemesHDFC Large Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Defence Fund Direct Growth
+RBRahul BaijalJul 2022 - PresentView details
+RBRahul BaijalJul 2022 - Present
+Rahul BaijalJul 2022 - Present
+Jul 2022 - Present
+EducationMr. Baijal has done PGDM(MBA) from IIM Calcutta and is an engineering graduate of Delhi college of EngineeringExperiencePrior to joining HDFC Mutual Fund, he has worked with Sundaram Mutual Fund, Bharti AXA Life Insurance, TVF Capital, HSBC Securities, Credit Suisse Securities & Standard Chartered Bank.Also manages these schemesHDFC Large Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Defence Fund Direct Growth
+
+--- RBRahul BaijalJul 2022 - PresentView details ---
+
+--- DMDhruv MuchhalJun 2023 - PresentView details ---
+DMDhruv MuchhalJun 2023 - PresentView details
+DMDhruv MuchhalJun 2023 - Present
+Dhruv MuchhalJun 2023 - Present
+Jun 2023 - Present
+
+--- Additional Data ---
+Interglobe Aviation Ltd | Industrials | Equity | 1.75%
+Tata Motors Ltd | Industrials | Equity | 1.72%
+Mankind Pharma Ltd. | Healthcare | Equity | 1.72%
+Max Healthcare Institute Ltd | Healthcare | Equity | 1.69%
+United Spirits Ltd | Consumer Staples | Equity | 1.60%
+Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.59%
+Tata Consumer Products Ltd | Consumer Staples | Equity | 1.58%
+Indusind Bank Ltd | Financial | Equity | 1.49%
+Havells India Ltd | Consumer Discretionary | Equity | 1.35%
+ICICI Prudential Asset Management Company Ltd. | Financial | Equity | 1.28%
+Swiggy Ltd. | Technology | Equity | 1.19%
+Hyundai Motor India Ltd. | Consumer Discretionary | Equity | 1.11%
+Adani Ports and Special Economic Zone Ltd | Industrials | Equity | 1.04%
+SRF Ltd | Materials | Equity | 1.00%
+Eicher Motors Ltd | Consumer Discretionary | Equity | 0.98%
+Maruti Suzuki India Ltd | Consumer Discretionary | Equity | 0.84%
+Dabur India Ltd | Consumer Staples | Equity | 0.81%
+Mahindra & Mahindra Ltd | Consumer Discretionary | Equity | 0.80%
+TATA CAPITAL LIMITED EQ | Financial | Equity | 0.66%
+CG Power & Industrial Solutions Ltd | Industrials | Equity | 0.66%
+Tata Motors Ltd | Consumer Discretionary | Equity | 0.55%
+GOVERNMENT OF INDIA 36185 GOI 07JL40 6.68 FV RS 100 | Entities | GOI Securities | 0.50%
+Cummins India Ltd | Industrials | Equity | 0.36%
+DLF Ltd | Real Estate | Equity | 0.33%
+Billionbrains Garage Ventures Ltd. | Financial | Equity | 0.28%
+Hindalco Industries Ltd | Materials | Equity | 0.27%
+SBI Life Insurance Company Ltd | Financial | Equity | 0.19%
+Net Payables | Unspecified | Net Payables | -0.59%
+Name | 3Y | 5Y | 10Y | All
+Fund returns | +11.8% | +13.2% | +13.4% | +13.2%
+Category average (Equity Large Cap) | +15.1% | +15.0% | +13.2% | --
+Rank (Equity Large Cap) | 41 | 16 | 12 | --
+ | Name | 1Y | 3Y | Fund Size(Cr)
+ | Invesco India Largecap Fund Direct Growth | +2.60% | +15.51% | 1,748.94
+ | WhiteOak Capital Large Cap Fund Direct Growth | +0.33% | +14.94% | 1,170.63
+ | Nippon India Large Cap Fund Direct Growth | -0.39% | +14.47% | 51,660.30
+ | ICICI Prudential Large Cap Fund Direct Growth | -1.73% | +13.94% | 76,296.98
+ | DSP Large Cap Fund Direct Growth | -2.63% | +13.76% | 7,175.42
+Compare

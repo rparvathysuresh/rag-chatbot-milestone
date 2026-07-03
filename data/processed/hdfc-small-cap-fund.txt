@@ -1,0 +1,181 @@
+Source: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+Scheme: HDFC Small Cap Fund
+Scraped: 2026-07-03T16:12:26.674Z
+============================================================
+
+Scheme Name: HDFC Small Cap Fund Direct Growth
+Category: Equity | Small Cap | Very High Risk | Annualised returns | Absolute returns
+Returns: +14.85%3Y annualised
+1-Day Return: +1.14% 1D
+
+--- Fund Details ---
+NAV: 02 Jul '26: ₹158.75
+Min. for SIP: ₹100
+Fund size (AUM): ₹38,809.48 Cr
+Expense ratio: 0.77%
+Rating: 3
+
+--- Return Calculator ---
+Over the past | Total investment | Would've become | Historic returns | Returns
+1 year | ₹60,000 | ₹58,410 | -2.65%
+3 years | ₹1,80,000 | ₹1,93,762 | +7.65%
+5 years | ₹3,00,000 | ₹4,16,200 | +38.73%
+10 years | ₹6,00,000 | ₹15,36,450 | +156.08%
+
+--- Portfolio Holdings ---
+Name | Sector | Instruments | Assets
+Repo | Unspecified | Repo | 10.28%
+Firstsource Solutions Ltd | Industrials | Equity | 3.92%
+Aster DM Healthcare Ltd | Healthcare | Equity | 3.80%
+Bank Of Baroda | Financial | Equity | 3.24%
+Gabriel India Ltd | Consumer Discretionary | Equity | 2.77%
+eClerx Services Ltd | Technology | Equity | 2.45%
+Eris Lifesciences Ltd | Healthcare | Equity | 2.37%
+Fortis Healthcare Ltd | Healthcare | Equity | 2.26%
+Krishna Institute Of Medical Sciences Ltd | Healthcare | Equity | 2.18%
+Indian Bank | Financial | Equity | 2.08%
+Apar Industries Ltd | Diversified | Equity | 1.71%
+The Great Eastern Shipping Company Ltd | Energy & Utilities | Equity | 1.66%
+Timken India Ltd | Industrials | Equity | 1.63%
+Kalpataru Power Transmission Ltd | Industrials | Equity | 1.56%
+The Federal Bank Ltd | Financial | Equity | 1.55%
+Home First Finance Company India Ltd | Financial | Equity | 1.47%
+Power Mech Projects Ltd | Industrials | Equity | 1.42%
+PVR Ltd | Consumer Discretionary | Equity | 1.42%
+Vardhman Textiles Ltd | Consumer Discretionary | Equity | 1.40%
+Monthly SIPOne timeMonthly investment₹5,000Over the pastTotal investmentWould've becomeHistoric returnsReturns1 year₹60,000₹58,410-2.65%3 years₹1,80,000₹1,93,762+7.65%5 years₹3,00,000₹4,16,200+38.73%10 years₹6,00,000₹15,36,450+156.08%
+Monthly SIPOne time
+Monthly investment₹5,000
+Monthly investment
+
+--- Holdings (85) ---
+NameSectorInstrumentsAssetsRepoUnspecifiedRepo10.28%Firstsource Solutions LtdIndustrialsEquity3.92%Aster DM Healthcare LtdHealthcareEquity3.80%Bank Of BarodaFinancialEquity3.24%Gabriel India LtdConsumer DiscretionaryEquity2.77%eClerx Services LtdTechnologyEquity2.45%Eris Lifesciences LtdHealthcareEquity2.37%Fortis Healthcare LtdHealthcareEquity2.26%Krishna Institute Of Medical Sciences LtdHealthcareEquity2.18%Indian BankFinancialEquity2.08%Apar Industries LtdDiversifiedEquity1.71%The Great Eastern Shipping Company LtdEnergy & UtilitiesEquity1.66%Timken India LtdIndustrialsEquity1.63%Kalpataru Power Transmission LtdIndustrialsEquity1.56%The Federal Bank LtdFinancialEquity1.55%Home First Finance Company India LtdFinancialEquity1.47%Power Mech Projects LtdIndustrialsEquity1.42%PVR LtdConsumer DiscretionaryEquity1.42%Vardhman Textiles LtdConsumer DiscretionaryEquity1.40%Sudarshan Chemical Industries LtdMaterialsEquity1.40%Suprajit Engineering LtdConsumer DiscretionaryEquity1.39%Akzo Nobel India LtdMaterialsEquity1.39%Godrej Consumer Products LtdConsumer StaplesEquity1.38%Sonata Software LtdTechnologyEquity1.37%City Union Bank LtdFinancialEquity1.32%Dodla Dairy LtdConsumer StaplesEquity1.30%Vishal Mega Mart Ltd.Consumer StaplesEquity1.29%Chalet Hotels LtdConsumer DiscretionaryEquity1.27%Sharda Cropchem LtdMaterialsEquity1.26%Mahindra CIE Automotive LtdConsumer DiscretionaryEquity1.25%Blue Dart Express LtdIndustrialsEquity1.24%Fiem Industries LtdConsumer DiscretionaryEquity1.23%Equitas Small Finance Bank LtdFinancialEquity1.23%Aditya Vision LtdConsumer DiscretionaryEquity1.21%Pearl Global Industries LtdConsumer DiscretionaryEquity1.19%JK Tyre & Industries LtdConsumer DiscretionaryEquity1.14%Transport Corporation Of India LtdIndustrialsEquity1.13%LG Balakrishnan & Brothers LtdIndustrialsEquity1.08%Zensar Technologies LtdTechnologyEquity1.07%Tega Industries LtdIndustrialsEquity1.06%Chambal Fertilisers & Chemicals LtdMaterialsEquity1.03%Voltamp Transformers LtdIndustrialsEquity0.98%UTI Asset Management Company LtdFinancialEquity0.94%Shoppers Stop LtdConsumer DiscretionaryEquity0.91%Kirloskar Ferrous Industries LtdMaterialsEquity0.89%VRL Logistics LtdIndustrialsEquity0.87%NRB Bearings LtdIndustrialsEquity0.83%Tata Steel LtdMaterialsEquity0.83%Redtape LtdConsumer DiscretionaryEquity0.81%Redington LtdTechnologyEquity0.78%Bajaj Consumer Care LtdConsumer StaplesEquity0.78%Lumax Industries LtdConsumer DiscretionaryEquity0.77%Indigo Paints LtdMaterialsEquity0.77%Vijaya Diagnostic Centre LtdHealthcareEquity0.74%The Anup Engineering LtdIndustrialsEquity0.70%DHFL VYSYA HOUSING FINANCE LIMITED EQFinancialEquity0.69%PNC Infratech LtdIndustrialsEquity0.69%KEC International LtdDiversifiedEquity0.64%SKF India (Industrial) LtdIndustrialsEquity0.62%Awfis Space Solutions Ltd.IndustrialsEquity0.56%Kei Industries LtdIndustrialsEquity0.54%Mastek LtdTechnologyEquity0.53%Bajaj Electricals LtdConsumer DiscretionaryEquity0.51%Wakefit Innovations Ltd.Consumer DiscretionaryEquity0.49%Unichem Laboratories LtdHealthcareEquity0.49%Gateway Distriparks LtdIndustrialsEquity0.49%Insecticides (India) LtdMaterialsEquity0.49%Vesuvius India LtdIndustrialsEquity0.47%SKF India LtdIndustrialsEquity0.47%La Opala RG LtdConsumer DiscretionaryEquity0.44%Ion Exchange (India) LtdIndustrialsEquity0.44%GMM Pfaudler LtdIndustrialsEquity0.42%Gujarat Pipavav Port LtdIndustrialsEquity0.36%G R Infraprojects LtdIndustrialsEquity0.35%Emami LtdConsumer StaplesEquity0.35%GNA Axles LtdConsumer DiscretionaryEquity0.31%IFGL Refractories LtdIndustrialsEquity0.29%Brainbees Solutions Ltd.Consumer DiscretionaryEquity0.29%DB Corp LtdIndustrialsEquity0.26%Sula Vineyards LtdConsumer StaplesEquity0.24%Goodyear India LtdConsumer DiscretionaryEquity0.24%BEML LtdIndustrialsEquity0.18%Carborundum Universal LtdMaterialsEquity0.17%TCI Express LtdIndustrialsEquity0.14%Net PayablesUnspecifiedNet Payables-0.16%See All
+Firstsource Solutions Ltd
+Aster DM Healthcare Ltd
+Gabriel India Ltd
+eClerx Services Ltd
+Eris Lifesciences Ltd
+Fortis Healthcare Ltd
+Krishna Institute Of Medical Sciences Ltd
+Apar Industries Ltd
+The Great Eastern Shipping Company Ltd
+
+--- Minimum investments ---
+Min. for 1st investment₹100Min. for 2nd investment₹100Min. for SIP₹100
+Min. for 1st investment₹100Min. for 2nd investment₹100
+Min. for 1st investment₹100
+Min. for 1st investment
+Min. for 2nd investment₹100
+Min. for 2nd investment
+Min. for SIP₹100
+
+--- Understand terms ---
+Annualised returnsAverage of the yearly returns of a mutual fund over a given period.Absolute returnsThe total return of a mutual fund over a given period.
+Annualised returnsAverage of the yearly returns of a mutual fund over a given period.
+Average of the yearly returns of a mutual fund over a given period.
+Absolute returnsThe total return of a mutual fund over a given period.
+The total return of a mutual fund over a given period.
+
+--- Compare similar funds ---
+Name1Y3YFund Size(Cr)Bandhan Small Cap Fund Direct Growth+7.75%+29.24%27,219.13Invesco India Smallcap Fund Direct Growth+11.55%+25.56%11,716.88Sundaram Small Cap Fund Direct Growth+12.11%+20.18%3,680.99Nippon India Small Cap Fund Direct Growth+6.04%+19.48%74,604.07Axis Small Cap Fund Direct Growth+5.33%+17.49%27,840.05Compare
+Bandhan Small Cap Fund Direct Growth
+Invesco India Smallcap Fund Direct Growth
+Sundaram Small Cap Fund Direct Growth
+Nippon India Small Cap Fund Direct Growth
+Axis Small Cap Fund Direct Growth
+
+--- Fund management ---
+DMDhruv MuchhalJun 2023 - PresentView detailsEducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct GrowthCSChirag SetalvadJun 2014 - PresentView detailsEducationMr. Setalvad is a B. Sc and MBA from University of North Carolina.ExperiencePrior to joining HDFC AMC he has worked with New Vernon Advisory Services Ltd., HDFC AMC and ING Barings N.V.Also manages these schemesHDFC Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Children's Fund Direct Plan
+DMDhruv MuchhalJun 2023 - PresentView detailsEducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth
+DMDhruv MuchhalJun 2023 - PresentView details
+DMDhruv MuchhalJun 2023 - Present
+Dhruv MuchhalJun 2023 - Present
+Jun 2023 - Present
+EducationMr. Dhruv has done B.Com, CA and CFAExperiencePrior to joining HDFC MF,he has worked with Motilal Oswal Financial Services Ltd., Goldman Sachs, CRISIL Global Research & Analytics and Deloitte Haskins & SellsAlso manages these schemesHDFC Flexi Cap Direct Plan GrowthHDFC Value Fund Direct Plan GrowthHDFC Low Duration Fund Direct GrowthHDFC Focused Fund Direct GrowthHDFC Floating Rate Debt Fund Direct Plan GrowthHDFC Balanced Advantage Fund Direct GrowthHDFC Dynamic Debt Fund Direct Plan GrowthHDFC Medium Term Debt Fund Direct GrowthHDFC Income Fund Direct GrowthHDFC Infrastructure Fund Direct GrowthHDFC Corporate Bond Fund Direct Plan GrowthHDFC Hybrid Debt Fund Direct GrowthHDFC Mid Cap Fund Direct GrowthHDFC Equity Savings Direct Plan GrowthHDFC Multi Asset Allocation Fund Direct GrowthHDFC Hybrid Equity Fund Direct Plan GrowthHDFC Short Term Debt Fund Direct Plan GrowthHDFC ELSS Tax Saver Fund Direct Plan GrowthHDFC Large Cap Fund Direct GrowthHDFC Credit Risk Debt Fund Direct GrowthHDFC Banking and PSU Debt Fund Direct GrowthHDFC Arbitrage Fund Direct GrowthHDFC Large and Mid Cap Fund Direct GrowthHDFC Small Cap Fund Direct GrowthHDFC Ultra Short Term Fund Direct GrowthHDFC Liquid Direct Plan GrowthHDFC Overnight Fund Direct GrowthHDFC Money Market Fund Direct GrowthHDFC Retirement Savings Fund Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Equity Plan Direct GrowthHDFC Retirement Savings Fund Hybrid Debt Plan Direct GrowthHDFC Housing Opportunities Fund Direct GrowthHDFC Banking & Financial Services Fund Direct GrowthHDFC Multi Cap Fund Direct GrowthHDFC Business Cycle Fund Direct GrowthHDFC Long Duration Debt Fund Direct GrowthHDFC MNC Fund Direct GrowthHDFC Defence Fund Direct GrowthHDFC Consumption Fund Direct GrowthHDFC Transportation and Logistics Fund Direct GrowthHDFC Technology Fund Direct GrowthHDFC Pharma And Healthcare Fund Direct GrowthHDFC Manufacturing Fund Direct GrowthHDFC Children's Fund Direct PlanHDFC Innovation Fund Direct GrowthHDFC Diversified Equity All Cap Active FoF Direct Growth
+
+--- DMDhruv MuchhalJun 2023 - PresentView details ---
+
+--- CSChirag SetalvadJun 2014 - PresentView details ---
+CSChirag SetalvadJun 2014 - PresentView details
+CSChirag SetalvadJun 2014 - Present
+Chirag SetalvadJun 2014 - Present
+Jun 2014 - Present
+
+--- Additional Data ---
+Sudarshan Chemical Industries Ltd | Materials | Equity | 1.40%
+Suprajit Engineering Ltd | Consumer Discretionary | Equity | 1.39%
+Akzo Nobel India Ltd | Materials | Equity | 1.39%
+Godrej Consumer Products Ltd | Consumer Staples | Equity | 1.38%
+Sonata Software Ltd | Technology | Equity | 1.37%
+City Union Bank Ltd | Financial | Equity | 1.32%
+Dodla Dairy Ltd | Consumer Staples | Equity | 1.30%
+Vishal Mega Mart Ltd. | Consumer Staples | Equity | 1.29%
+Chalet Hotels Ltd | Consumer Discretionary | Equity | 1.27%
+Sharda Cropchem Ltd | Materials | Equity | 1.26%
+Mahindra CIE Automotive Ltd | Consumer Discretionary | Equity | 1.25%
+Blue Dart Express Ltd | Industrials | Equity | 1.24%
+Fiem Industries Ltd | Consumer Discretionary | Equity | 1.23%
+Equitas Small Finance Bank Ltd | Financial | Equity | 1.23%
+Aditya Vision Ltd | Consumer Discretionary | Equity | 1.21%
+Pearl Global Industries Ltd | Consumer Discretionary | Equity | 1.19%
+JK Tyre & Industries Ltd | Consumer Discretionary | Equity | 1.14%
+Transport Corporation Of India Ltd | Industrials | Equity | 1.13%
+LG Balakrishnan & Brothers Ltd | Industrials | Equity | 1.08%
+Zensar Technologies Ltd | Technology | Equity | 1.07%
+Tega Industries Ltd | Industrials | Equity | 1.06%
+Chambal Fertilisers & Chemicals Ltd | Materials | Equity | 1.03%
+Voltamp Transformers Ltd | Industrials | Equity | 0.98%
+UTI Asset Management Company Ltd | Financial | Equity | 0.94%
+Shoppers Stop Ltd | Consumer Discretionary | Equity | 0.91%
+Kirloskar Ferrous Industries Ltd | Materials | Equity | 0.89%
+VRL Logistics Ltd | Industrials | Equity | 0.87%
+NRB Bearings Ltd | Industrials | Equity | 0.83%
+Tata Steel Ltd | Materials | Equity | 0.83%
+Redtape Ltd | Consumer Discretionary | Equity | 0.81%
+Redington Ltd | Technology | Equity | 0.78%
+Bajaj Consumer Care Ltd | Consumer Staples | Equity | 0.78%
+Lumax Industries Ltd | Consumer Discretionary | Equity | 0.77%
+Indigo Paints Ltd | Materials | Equity | 0.77%
+Vijaya Diagnostic Centre Ltd | Healthcare | Equity | 0.74%
+The Anup Engineering Ltd | Industrials | Equity | 0.70%
+DHFL VYSYA HOUSING FINANCE LIMITED EQ | Financial | Equity | 0.69%
+PNC Infratech Ltd | Industrials | Equity | 0.69%
+KEC International Ltd | Diversified | Equity | 0.64%
+SKF India (Industrial) Ltd | Industrials | Equity | 0.62%
+Awfis Space Solutions Ltd. | Industrials | Equity | 0.56%
+Kei Industries Ltd | Industrials | Equity | 0.54%
+Mastek Ltd | Technology | Equity | 0.53%
+Bajaj Electricals Ltd | Consumer Discretionary | Equity | 0.51%
+Wakefit Innovations Ltd. | Consumer Discretionary | Equity | 0.49%
+Unichem Laboratories Ltd | Healthcare | Equity | 0.49%
+Gateway Distriparks Ltd | Industrials | Equity | 0.49%
+Insecticides (India) Ltd | Materials | Equity | 0.49%
+Vesuvius India Ltd | Industrials | Equity | 0.47%
+SKF India Ltd | Industrials | Equity | 0.47%
+La Opala RG Ltd | Consumer Discretionary | Equity | 0.44%
+Ion Exchange (India) Ltd | Industrials | Equity | 0.44%
+GMM Pfaudler Ltd | Industrials | Equity | 0.42%
+Gujarat Pipavav Port Ltd | Industrials | Equity | 0.36%
+G R Infraprojects Ltd | Industrials | Equity | 0.35%
+Emami Ltd | Consumer Staples | Equity | 0.35%
+GNA Axles Ltd | Consumer Discretionary | Equity | 0.31%
+IFGL Refractories Ltd | Industrials | Equity | 0.29%
+Brainbees Solutions Ltd. | Consumer Discretionary | Equity | 0.29%
+DB Corp Ltd | Industrials | Equity | 0.26%
+Sula Vineyards Ltd | Consumer Staples | Equity | 0.24%
+Goodyear India Ltd | Consumer Discretionary | Equity | 0.24%
+BEML Ltd | Industrials | Equity | 0.18%
+Carborundum Universal Ltd | Materials | Equity | 0.17%
+TCI Express Ltd | Industrials | Equity | 0.14%
+Net Payables | Unspecified | Net Payables | -0.16%
+Name | 3Y | 5Y | 10Y | All
+Fund returns | +14.8% | +16.8% | +18.5% | +18.6%
+Category average (Equity Small Cap) | +19.7% | +22.6% | +16.1% | --
+Rank (Equity Small Cap) | 29 | 19 | 4 | --
+ | Name | 1Y | 3Y | Fund Size(Cr)
+ | Bandhan Small Cap Fund Direct Growth | +7.75% | +29.24% | 27,219.13
+ | Invesco India Smallcap Fund Direct Growth | +11.55% | +25.56% | 11,716.88
+ | Sundaram Small Cap Fund Direct Growth | +12.11% | +20.18% | 3,680.99
+ | Nippon India Small Cap Fund Direct Growth | +6.04% | +19.48% | 74,604.07
+ | Axis Small Cap Fund Direct Growth | +5.33% | +17.49% | 27,840.05
+Compare

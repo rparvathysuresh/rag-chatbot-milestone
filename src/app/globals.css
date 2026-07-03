@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .bg-dots {
+    background-image: radial-gradient(circle, #3edeb1 1px, transparent 1px), radial-gradient(circle, #d0bcff 1px, transparent 1px);
+    background-size: 40px 40px;
+    background-position: 0 0, 20px 20px;
+    opacity: 0.05;
+    background-attachment: fixed;
+  }
+}
+
+/* Scrollbar hiding for chat window */
+.hide-scrollbar::-webkit-scrollbar {
+  width: 6px;
+}
+.hide-scrollbar::-webkit-scrollbar-thumb {
+  background: rgba(255,255,255,0.1);
+  border-radius: 10px;
+}

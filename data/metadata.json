@@ -1,0 +1,52 @@
+[
+  {
+    "scheme_name": "HDFC Large Cap Fund",
+    "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
+    "slug": "hdfc-large-cap-fund",
+    "last_scraped": "2026-07-03T16:12:21.644Z",
+    "content_hash": "sha256:b46f8b6f97b0250759e1b5fc18dadbcb6c74a5086f47c1f4b7ab1283746e8436",
+    "raw_size_bytes": 374980,
+    "clean_size_bytes": 11932,
+    "clean_line_count": 131
+  },
+  {
+    "scheme_name": "HDFC Mid-Cap Fund",
+    "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
+    "slug": "hdfc-mid-cap-fund",
+    "last_scraped": "2026-07-03T16:12:23.787Z",
+    "content_hash": "sha256:24ec3ef359f3b1455beebc085be702450f6b9cf9d1c85d7f24ab763a67576f3f",
+    "raw_size_bytes": 408839,
+    "clean_size_bytes": 14761,
+    "clean_line_count": 162
+  },
+  {
+    "scheme_name": "HDFC Small Cap Fund",
+    "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
+    "slug": "hdfc-small-cap-fund",
+    "last_scraped": "2026-07-03T16:12:26.681Z",
+    "content_hash": "sha256:f7c40b871d4827cf7ab76e3aa3ea235a44a8419ab2df347f2dc226a560d0bb17",
+    "raw_size_bytes": 418360,
+    "clean_size_bytes": 18993,
+    "clean_line_count": 169
+  },
+  {
+    "scheme_name": "HDFC Gold ETF FoF",
+    "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
+    "slug": "hdfc-gold-etf-fof",
+    "last_scraped": "2026-07-03T16:12:28.912Z",
+    "content_hash": "sha256:0e30f2954ec1f09dfa5edc2c3a28d1786431405a3817c56acf8e0d59fbd88a4b",
+    "raw_size_bytes": 309495,
+    "clean_size_bytes": 9678,
+    "clean_line_count": 64
+  },
+  {
+    "scheme_name": "HDFC Silver ETF FoF",
+    "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
+    "slug": "hdfc-silver-etf-fof",
+    "last_scraped": "2026-07-03T16:12:31.135Z",
+    "content_hash": "sha256:46c05a1feda3048faaf4a0220ceac04c229a1c3b30d72778d792d95f01ce2098",
+    "raw_size_bytes": 302688,
+    "clean_size_bytes": 9720,
+    "clean_line_count": 65
+  }
+]
