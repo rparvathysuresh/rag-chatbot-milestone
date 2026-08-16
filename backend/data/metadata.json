@@ -3,8 +3,8 @@
     "scheme_name": "HDFC Large Cap Fund",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
     "slug": "hdfc-large-cap-fund",
-    "last_scraped": "2026-08-15T05:29:50.903Z",
-    "content_hash": "sha256:303d2eea646761a65ad02eeeb0098a2028fa46e10d8b507000743801c52e3d93",
+    "last_scraped": "2026-08-16T05:33:16.101Z",
+    "content_hash": "sha256:274a36e1f4e964384f56dd56aff2ae6921e11fdf15965d0ae0bf9a8c64035b3d",
     "raw_size_bytes": 380201,
     "clean_size_bytes": 11945,
     "clean_line_count": 131
@@ -13,8 +13,8 @@
     "scheme_name": "HDFC Mid-Cap Fund",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
     "slug": "hdfc-mid-cap-fund",
-    "last_scraped": "2026-08-15T05:29:53.519Z",
-    "content_hash": "sha256:209119ae9dc3c7974b988b5b0daab431dea30bef25a8ff8efad5388e62037b17",
+    "last_scraped": "2026-08-16T05:33:18.560Z",
+    "content_hash": "sha256:db46b78e5a1ef6ae7fa45a69d2b4e2e3295bf6b7a82ce48f06ef3d4b0b53aefc",
     "raw_size_bytes": 414445,
     "clean_size_bytes": 14775,
     "clean_line_count": 162
@@ -23,8 +23,8 @@
     "scheme_name": "HDFC Small Cap Fund",
     "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
     "slug": "hdfc-small-cap-fund",
-    "last_scraped": "2026-08-15T05:29:55.902Z",
-    "content_hash": "sha256:e56f720a1b94ea9f94821badca9d77c1f9ee84002238f32b72d854c71541629a",
+    "last_scraped": "2026-08-16T05:33:20.927Z",
+    "content_hash": "sha256:536df01c5e748991042e4c2de1a52360fe0dd3fe0bb8e6efa757a98065834046",
     "raw_size_bytes": 424000,
     "clean_size_bytes": 18982,
     "clean_line_count": 169
@@ -33,8 +33,8 @@
     "scheme_name": "HDFC Gold ETF FoF",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
     "slug": "hdfc-gold-etf-fof",
-    "last_scraped": "2026-08-15T05:29:58.342Z",
-    "content_hash": "sha256:51ba60020c407fcd257b6d010322d825c97295f2fa58a4da84e4335aaf160f47",
+    "last_scraped": "2026-08-16T05:33:23.237Z",
+    "content_hash": "sha256:97e6279a1fbd3a9b34387d8fd636cb30c201d7c25d042dd707b1993ea4d6c98f",
     "raw_size_bytes": 315400,
     "clean_size_bytes": 9828,
     "clean_line_count": 64
@@ -43,9 +43,9 @@
     "scheme_name": "HDFC Silver ETF FoF",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
     "slug": "hdfc-silver-etf-fof",
-    "last_scraped": "2026-08-15T05:30:00.834Z",
-    "content_hash": "sha256:51c1fd33b0ec3d6ffab0f32c8982242237080b1178c71f0d50db0d9e5f57bb48",
-    "raw_size_bytes": 308632,
+    "last_scraped": "2026-08-16T05:33:25.641Z",
+    "content_hash": "sha256:31b82b256987efc4c831efd0d5d0888c9717ac5ac9bfaf5ca72ee237a89c8639",
+    "raw_size_bytes": 308633,
     "clean_size_bytes": 9871,
     "clean_line_count": 65
   }
