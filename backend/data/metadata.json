@@ -3,7 +3,7 @@
     "scheme_name": "HDFC Large Cap Fund",
     "source_url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth",
     "slug": "hdfc-large-cap-fund",
-    "last_scraped": "2026-08-25T05:36:17.754Z",
+    "last_scraped": "2026-08-26T05:38:50.364Z",
     "content_hash": null,
     "error": "Request failed with status code 403"
   },
@@ -11,7 +11,7 @@
     "scheme_name": "HDFC Mid-Cap Fund",
     "source_url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth",
     "slug": "hdfc-mid-cap-fund",
-    "last_scraped": "2026-08-25T05:36:19.797Z",
+    "last_scraped": "2026-08-26T05:38:52.395Z",
     "content_hash": null,
     "error": "Request failed with status code 403"
   },
@@ -19,7 +19,7 @@
     "scheme_name": "HDFC Small Cap Fund",
     "source_url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth",
     "slug": "hdfc-small-cap-fund",
-    "last_scraped": "2026-08-25T05:36:21.840Z",
+    "last_scraped": "2026-08-26T05:38:54.424Z",
     "content_hash": null,
     "error": "Request failed with status code 403"
   },
@@ -27,7 +27,7 @@
     "scheme_name": "HDFC Gold ETF FoF",
     "source_url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth",
     "slug": "hdfc-gold-etf-fof",
-    "last_scraped": "2026-08-25T05:36:23.884Z",
+    "last_scraped": "2026-08-26T05:38:56.453Z",
     "content_hash": null,
     "error": "Request failed with status code 403"
   },
@@ -35,7 +35,7 @@
     "scheme_name": "HDFC Silver ETF FoF",
     "source_url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth",
     "slug": "hdfc-silver-etf-fof",
-    "last_scraped": "2026-08-25T05:36:25.932Z",
+    "last_scraped": "2026-08-26T05:38:58.483Z",
     "content_hash": null,
     "error": "Request failed with status code 403"
   }
